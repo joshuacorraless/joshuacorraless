@@ -2,15 +2,9 @@
   Hi there, I'm <a href="#">Joshua Corrales</a> 👋
 </h1>
 
-<p align="center">
-  🎓 Computer Engineering student @ Tecnológico de Costa Rica  
-  <br/>
-  🔧 Backend dev | Tech enthusiast | Constant learner  
-</p>
 
----
 
-### 🛠️ Languages and Tools
+### Languages:
 
 <p align="center">
   <!-- Lenguajes -->
@@ -23,12 +17,12 @@
 
   <br/><br/>
 
-  <!-- Herramientas -->
+### Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 
   <br/><br/>
 
-  <!-- Bases de Datos -->
+### Data Bases:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 </p>
