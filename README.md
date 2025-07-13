@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Joshua!
 
-<!--
-**joshuacorraless/joshuacorraless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student at the Tecnológico de Costa Rica  
+🧠 Passionate about backend development and emerging technologies  
+⚙️ Currently working with Node.js, Express, MySQL and exploring Docker  
+📚 Always learning and building
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** JavaScript, SQL, C++, Python
+- **Backend:** Node.js, Express
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Postman, Docker, Railway
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: joshua.corrales.dev@gmail.com
+- LinkedIn: [your-link-here]
