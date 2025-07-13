@@ -1,4 +1,7 @@
-# 👋 
+<h1 align="center">
+  Hi there, I'm <span style="color:#0a66c2;">Joshua Corrales</span> 👋
+</h1>
+
 
 ## 🧠 Lenguajes de Programación
 
