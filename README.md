@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Joshua!
+# 👋 
 
-🎓 I'm a Computer Engineering student at the Tecnológico de Costa Rica  
+🎓 I'm a Computer Engineering student at the Costa Rica Institute of Technology
 🧠 Passionate about backend development and emerging technologies  
 ⚙️ Currently working with Node.js, Express, MySQL and exploring Docker  
 📚 Always learning and building
