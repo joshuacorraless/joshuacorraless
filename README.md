@@ -24,7 +24,7 @@
 
   <br/><br/>
 
-### Data Bases:
+### Databases:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 </p>
