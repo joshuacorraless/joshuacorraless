@@ -1,16 +1,10 @@
 <h1 align="center">
-  Hi there, I'm <a href="#">Joshua Corrales</a> 👋
+  <a href="#">Joshua Corrales</a> 
 </h1>
 
 <p align="center">
-  🎓 Computer Engineering student @ Costa Rica Institute of Technology
-</p>
-
----
-
-## Tech Stack 🚀 
-
-### Languages
+  I´ve worked with:
+  ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -25,3 +19,10 @@
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
+
+---
+
+
+
+
