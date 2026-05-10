@@ -1,5 +1,5 @@
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Coding**  
 > ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=yellow)
