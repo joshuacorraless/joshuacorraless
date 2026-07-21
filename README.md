@@ -2,7 +2,7 @@
 
 **Computer Science student at the Costa Rica Institute of Technology, graduating soon**
 
-I build backend systems and I'm working toward cloud and solutions architecture. I care about the decisions behind reliable software, how it gets designed, secured, operated, and made easy for a team to own.
+I build backend and data systems, and I'm working toward cloud and solutions architecture. I care about the decisions behind reliable software, how it gets designed, secured, operated, and made easy for a team to own.
 
 **LANGUAGES**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-E85D75?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E85D75?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-E85D75?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-E85D75?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-E85D75?style=flat-square&logo=cplusplus&logoColor=white)
