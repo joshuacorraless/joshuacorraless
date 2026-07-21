@@ -1,9 +1,12 @@
 # Joshua Corrales
 
-**Software Engineering · Architecture · Technology Leadership**
+**Engineering student, graduating soon · Software Engineering · Architecture**
 
-I build and lead software at the intersection of product, architecture, security, and delivery. My work spans backend platforms, identity and access, data systems, and automation—with a bias for clear decisions and reliable execution.
+I build software across backend systems, identity and access, data, and automation. I’m interested in the decisions behind reliable products: how they are designed, secured, operated, and made easier for teams to own.
 
-I care about systems that are secure by design, observable in production, and simple enough for the next team to own.
-
-`Node.js / TypeScript` · `Python` · `SQL` · `Docker` · `CI/CD` · `Identity & Access`
+```text
+BUILD     Node.js · TypeScript · Python · Java
+DATA      SQL · MySQL · OLAP
+OPERATE   Docker · CI/CD · Git
+FOCUS     Architecture · Security · Automation
+```
